@@ -13,27 +13,29 @@ for providing 3D models of excellent quality.
 List of used aircrafts: 
 
 
-| Aircraft model|            |
-| ------------- |:-------------:|
-| Boeing 737    | [link](https://github.com/FGMEMBERS/737-800)    |
-| Boeing 737    | [link](https://github.com/FGMEMBERS/737-800)    |
-| Boeing 737    | [link](https://github.com/FGMEMBERS/737-800)    |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-737 - https://github.com/FGMEMBERS/737-800
-747 - https://github.com/FGMEMBERS/747-400
-757 - https://github.com/FGMEMBERS/757-200
-767 - https://github.com/FGMEMBERS/767-300
-777 - https://github.com/FGMEMBERS/777
-787 - https://github.com/FGMEMBERS/787-8
-A320 - https://github.com/FGMEMBERS/A320-family
-A380 - https://github.com/FGMEMBERS/A380
-A330 - https://github.com/FGMEMBERS/A330-200
-A350 - https://github.com/FGMEMBERS/A350XWB
-A340 - https://github.com/FGMEMBERS/A340-313X
-ATR42 - https://github.com/FGMEMBERS/ATR-42-500
-BAe-125 - https://github.com/FGMEMBERS/BAe-125
-C172R - https://github.com/FGMEMBERS/c172r
-CRJ700, 900 - https://github.com/FGMEMBERS/CRJ700-family
-Embraer - https://github.com/FGMEMBERS/E-jet-family
-EC135 - https://github.com/FGMEMBERS/ec135
+| Aircraft model        |                                                 |
+| -------------         |:-------------:                                  |
+| Boeing 737            | [link](https://github.com/FGMEMBERS/737-800)    |
+| Boeing 747            | [link](https://github.com/FGMEMBERS/747-400)    |
+| Boeing 757            | [link](https://github.com/FGMEMBERS/757-200)    |
+| Boeing 767            | [link](https://github.com/FGMEMBERS/767-300)    |
+| Boeing 777            | [link](https://github.com/FGMEMBERS/777)        |
+| Boeing 787            | [link](https://github.com/FGMEMBERS/787-8)      |
+| Airbus A320           | [link](https://github.com/FGMEMBERS/A320-family)|
+| Airbus A330           | [link](https://github.com/FGMEMBERS/A330-200)   |
+| Airbus A340           | [link](https://github.com/FGMEMBERS/A340-313X)  |
+| Airbus A350           | [link](https://github.com/FGMEMBERS/A350XWB)    |
+| Airbus A380           | [link](https://github.com/FGMEMBERS/A380)       |
+| ATR 42                | [link](https://github.com/FGMEMBERS/ATR-42-500) |
+| British Aerospace 125 | [link](https://github.com/FGMEMBERS/BAe-125)    |
+| Cessna 172R           | [link](https://github.com/FGMEMBERS/c172r)      |
+| Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Bombardier CRJ900     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Embraer E170          | [link](https://github.com/FGMEMBERS/E-jet-family)|
+| Embraer E190          | [link](https://github.com/FGMEMBERS/E-jet-family)|
+| Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Eurocopter EC135      | [link](https://github.com/FGMEMBERS/ec135)       |
+
+# License
+All models are licensed under GPLv2
+
