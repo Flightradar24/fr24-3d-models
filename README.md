@@ -7,7 +7,7 @@ Contributions are always welcome! Feel free to open pull requests for any 3D air
 
 
 # Credits
-Many thanks to [FlightGear project]() and  [FGMEMBERS repository](https://github.com/FGMEMBERS) 
+Many thanks to [FlightGear project](http://www.flightgear.org/) and  [FGMEMBERS repository](https://github.com/FGMEMBERS) 
 for providing 3D models of excellent quality.
 
 List of used aircrafts: 
