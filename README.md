@@ -39,7 +39,7 @@ List of used aircrafts:
 
 # License
 
-Millenium Falcon is made by [Johnson Martin](https://sketchfab.com/Johnson-Martin) and licensed by [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+Millenium Falcon is made by [Johnson Martin](https://sketchfab.com/Johnson-Martin) and licensed by [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Changes to model were made.
 
 All other models are licensed under GPLv2
 
