@@ -35,7 +35,11 @@ List of used aircrafts:
 | Embraer E190          | [link](https://github.com/FGMEMBERS/E-jet-family)|
 | Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
 | Eurocopter EC135      | [link](https://github.com/FGMEMBERS/ec135)       |
+| Millennium Falcon     | [link](https://sketchfab.com/models/bd3e54ac20ff4ade8ddd8043db75c1d1)       |
 
 # License
-All models are licensed under GPLv2
+
+Millenium Falcon is made by [Johnson Martin](https://sketchfab.com/Johnson-Martin) and licensed by [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+
+All other models are licensed under GPLv2
 
