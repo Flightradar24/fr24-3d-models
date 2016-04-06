@@ -1,3 +1,5 @@
+![alt tag](https://www.flightradar24.com/blog/wp-content/uploads/2016/03/3DView-AirbusA380.jpg)
+
 # Flightradar24 3D models
 
 This repo contains all models which are used for Flightradar24 3D view. All files are stored in [gltf format](https://github.com/KhronosGroup/glTF).
