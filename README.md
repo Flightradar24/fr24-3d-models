@@ -2,7 +2,7 @@
 
 # Flightradar24 3D models
 
-This repo contains all models which are used for Flightradar24 3D view. All files are stored in [gltf format](https://github.com/KhronosGroup/glTF).
+This repo contains all models which are used for Flightradar24 3D view. All files are stored in [glTF format](https://github.com/KhronosGroup/glTF).
 
 # Contribute
 
@@ -11,7 +11,7 @@ Contributions are always welcome!  Feel free to open pull requests for any 3D ai
 ## 3D Models
 You can contribute missing 3d models by posting pull request with model (.blend, .obj,.dae or .gltf extension) and providing details about it and license info.
 
-GLTF extension is preferred, since not all .blend/.obj/.dae models correctly converts to [gltf format](https://github.com/KhronosGroup/glTF). To check conversion, please use [online converter from dae to gltf](https://cesiumjs.org/convertmodel.html). Also, you can use various [other converters](https://github.com/KhronosGroup/glTF#converters)
+gltf extension is preferred, since not all .blend/.obj/.dae models correctly converts to [glTF format](https://github.com/KhronosGroup/glTF). To check conversion, please use [online converter from dae to glTF](https://cesiumjs.org/convertmodel.html). Also, you can use various [other converters](https://github.com/KhronosGroup/glTF#converters)
 
 ## Liveries
 We are currently looking for house liveries for most of aircrafts. All of [FGMEMBERS](https://github.com/FGMEMBERS) aircrafts  contains paintkits, which you can use as a template for a livery([example](https://github.com/FGMEMBERS/737-800/tree/master/Paintkit)). 
