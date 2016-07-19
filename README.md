@@ -39,8 +39,8 @@ List of used aircrafts:
 | Airbus A350           | [link](https://github.com/FGMEMBERS/A350XWB)    |
 | Airbus A380           | [link](https://github.com/FGMEMBERS/A380)       |
 | ATR 42                | [link](https://github.com/FGMEMBERS/ATR-42-500) |
-| British Aerospace 125 | [link](https://github.com/FGMEMBERS/BAe-125)    |
-| Cessna 172R           | [link](https://github.com/FGMEMBERS/c172r)      |
+| Cessna Citation II | [link](https://github.com/FGMEMBERS/Citation)    |
+| Piper PA-28           | [link](https://github.com/FGMEMBERS/Piper-PA-28)      |
 | Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
 | Bombardier CRJ900     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
 | Embraer E170          | [link](https://github.com/FGMEMBERS/E-jet-family)|
