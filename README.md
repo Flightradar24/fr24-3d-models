@@ -35,9 +35,9 @@ List of used aircrafts:
 | Boeing 787            | [link](https://github.com/FGMEMBERS/787-8)      |
 | Airbus A320           | [link](https://github.com/FGMEMBERS/A320-family)|
 | Airbus A330           | [link](https://github.com/FGMEMBERS/A330-200)   |
-| Airbus A340           | [link](https://github.com/FGMEMBERS/A340-313X)  |
+| Airbus A340           | [link](https://github.com/FGMEMBERS/A340-600HGW)  |
 | Airbus A350           | [link](https://github.com/FGMEMBERS/A350XWB)    |
-| Airbus A380           | [link](https://github.com/FGMEMBERS/A380)       |
+| Airbus A380           | [link](https://github.com/FGMEMBERS/A380-omega)       |
 | ATR 42                | [link](https://github.com/FGMEMBERS/ATR-42-500) |
 | Cessna Citation II | [link](https://github.com/FGMEMBERS/Citation)    |
 | Piper PA-28           | [link](https://github.com/FGMEMBERS/Piper-PA-28)      |
