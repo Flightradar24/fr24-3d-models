@@ -25,30 +25,44 @@ for providing 3D models of excellent quality.
 List of used aircrafts: 
 
 
-| Aircraft model        |                                                 |
-| -------------         |:-------------:                                  |
-| Boeing 737            | [link](https://github.com/FGMEMBERS/737-800)    |
-| Boeing 747            | [link](https://github.com/FGMEMBERS/747-400)    |
-| Boeing 757            | [link](https://github.com/FGMEMBERS/757-200)    |
-| Boeing 767            | [link](https://github.com/FGMEMBERS/767-300)    |
-| Boeing 777            | [link](https://github.com/FGMEMBERS/777)        |
-| Boeing 787            | [link](https://github.com/FGMEMBERS/787-8)      |
-| Airbus A320           | [link](https://github.com/FGMEMBERS/A320-family)|
-| Airbus A330           | [link](https://github.com/FGMEMBERS/A330-200)   |
-| Airbus A340           | [link](https://github.com/FGMEMBERS/A340-600HGW)  |
-| Airbus A350           | [link](https://github.com/FGMEMBERS/A350XWB)    |
-| Airbus A380           | [link](https://github.com/FGMEMBERS/A380-omega)       |
-| ATR 42                | [link](https://github.com/FGMEMBERS/ATR-42-500) |
-| Cessna Citation II | [link](https://github.com/FGMEMBERS/Citation)    |
-| Piper PA-28           | [link](https://github.com/FGMEMBERS/Piper-PA-28)      |
-| Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
-| Bombardier CRJ900     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
-| Embraer E170          | [link](https://github.com/FGMEMBERS/E-jet-family)|
-| Embraer E190          | [link](https://github.com/FGMEMBERS/E-jet-family)|
-| Bombardier CRJ700     | [link](https://github.com/FGMEMBERS/CRJ700-family)|
-| Eurocopter EC135      | [link](https://github.com/FGMEMBERS/ec135)       |
-| Millennium Falcon     | [link](https://sketchfab.com/models/bd3e54ac20ff4ade8ddd8043db75c1d1)       |
-| AN-225 Mrija     | [link](https://github.com/FGMEMBERS/AN-225-Mrija)       |
+| Aircraft model            |                                                 |
+| -------------             |:-------------:                                  |
+| Boeing 737-600            | [link](https://github.com/FGMEMBERS/737NG)      |
+| Boeing 737-700            | [link](https://github.com/FGMEMBERS/737NG)      |
+| Boeing 737-800            | [link](https://github.com/FGMEMBERS/737-800)    |
+| Boeing 737-900            | [link](https://github.com/FGMEMBERS/737NG)      |
+| Boeing 747-400            | [link](https://github.com/FGMEMBERS/747-400)    |
+| Boeing 747-8i             | [link](https://github.com/FGMEMBERS/747-8i)     |
+| Boeing 757-200            | [link](https://github.com/FGMEMBERS/757-200)    |
+| Boeing 757-300            | [link](https://github.com/FGMEMBERS/757-200)    |
+| Boeing 767-200            | [link](https://github.com/FGMEMBERS/767)        |
+| Boeing 767-300            | [link](https://github.com/FGMEMBERS/767-300)    |
+| Boeing 767-400            | [link](https://github.com/FGMEMBERS/767)        |
+| Boeing 777-200            | [link](https://github.com/FGMEMBERS/777)        |
+| Boeing 777-300            | [link](https://github.com/FGMEMBERS/777)        |
+| Boeing 787-800            | [link](https://github.com/FGMEMBERS/787-8)      |
+| Boeing 787-900            | [link](https://github.com/FGMEMBERS/787-9)      |
+| Airbus A318               | [link](https://github.com/FGMEMBERS/A320-family)|
+| Airbus A319               | [link](https://github.com/FGMEMBERS/A320-family)|
+| Airbus A320               | [link](https://github.com/FGMEMBERS/A320-family)|
+| Airbus A321               | [link](https://github.com/FGMEMBERS/A320-family)|
+| Airbus A330-200           | [link](https://github.com/FGMEMBERS/A330-200)   |
+| Airbus A330-300           | [link](https://github.com/FGMEMBERS/A330-300)   |
+| Airbus A340-300           | [link](https://github.com/FGMEMBERS/A340-313X)  |
+| Airbus A340-600           | [link](https://github.com/FGMEMBERS/A340-600HGW)|
+| Airbus A350               | [link](https://github.com/FGMEMBERS/A350XWB)    |
+| Airbus A380               | [link](https://github.com/FGMEMBERS/A380-omega) |
+| ATR 42                    | [link](https://github.com/FGMEMBERS/ATR-42-500) |
+| Cessna Citation II        | [link](https://github.com/FGMEMBERS/Citation)   |
+| Piper PA-28               | [link](https://github.com/FGMEMBERS/Piper-PA-28)|
+| Bombardier CRJ700         | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Bombardier CRJ900         | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Embraer E170              | [link](https://github.com/FGMEMBERS/E-jet-family)|
+| Embraer E190              | [link](https://github.com/FGMEMBERS/E-jet-family)|
+| Bombardier CRJ700         | [link](https://github.com/FGMEMBERS/CRJ700-family)|
+| Eurocopter EC135          | [link](https://github.com/FGMEMBERS/ec135)      |
+| Millennium Falcon         | [link](https://sketchfab.com/models/bd3e54ac20ff4ade8ddd8043db75c1d1)|
+| AN-225 Mrija              | [link](https://github.com/FGMEMBERS/AN-225-Mrija)|
 
 # License
 
