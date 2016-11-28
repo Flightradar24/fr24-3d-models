@@ -63,6 +63,10 @@ List of used aircrafts:
 | Eurocopter EC135          | [link](https://github.com/FGMEMBERS/ec135)      |
 | Millennium Falcon         | [link](https://sketchfab.com/models/bd3e54ac20ff4ade8ddd8043db75c1d1)|
 | AN-225 Mrija              | [link](https://github.com/FGMEMBERS/AN-225-Mrija)|
+| A300-600ST Beluga         | [link](https://github.com/FGMEMBERS/A300-600ST)|
+| Bombardier CS100          | [link](https://github.com/FGMEMBERS/CSeries)|
+| Bombardier CS300          | [link](https://github.com/FGMEMBERS/CSeries)|
+| Bombardier Dash 8 Q400    | [link](https://github.com/FGMEMBERS/Q400)|
 
 # License
 
