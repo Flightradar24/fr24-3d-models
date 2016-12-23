@@ -67,10 +67,12 @@ List of used aircrafts:
 | Bombardier CS100          | [link](https://github.com/FGMEMBERS/CSeries)|
 | Bombardier CS300          | [link](https://github.com/FGMEMBERS/CSeries)|
 | Bombardier Dash 8 Q400    | [link](https://github.com/FGMEMBERS/Q400)|
-
+| Santa Claus               | [link](https://3dwarehouse.sketchup.com/model.html?id=cc022bd603e293864d0718bea75780c5)|
 # License
 
 Millenium Falcon is made by [Johnson Martin](https://sketchfab.com/Johnson-Martin) and licensed by [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Changes to model were made.
+
+Santa Claus model is made by [egis](https://3dwarehouse.sketchup.com/user.html?id=0189786303790230897228088&nav=models) and licensed by [3D Warehouse License](https://3dwarehouse.sketchup.com/tos.html#license)
 
 All other models are licensed under GPLv2
 
