@@ -68,6 +68,7 @@ List of used aircrafts:
 | Bombardier CS300          | [link](https://github.com/FGMEMBERS/CSeries)|
 | Bombardier Dash 8 Q400    | [link](https://github.com/FGMEMBERS/Q400)|
 | BAe 146                   | [link](https://github.com/FGMEMBERS/Jumbolino)|
+| ASK 21                    | [link](https://github.com/FGMEMBERS/ASK21)|
 | Santa Claus               | [link](https://3dwarehouse.sketchup.com/model.html?id=cc022bd603e293864d0718bea75780c5)|
 
 # License
